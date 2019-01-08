@@ -1,0 +1,22 @@
+.cm-s-ib { background: #002240; color: white; border: 1px solid #002240;}
+.cm-s-ib .CodeMirror-selected { background: #b36539 !important; }
+.cm-s-ib .CodeMirror-gutter { background: #002240; border-right: 1px solid #aaa; }
+.cm-s-ib .CodeMirror-gutter-text { color: #d0d0d0; }
+.cm-s-ib .CodeMirror-cursor { border-left: 1px solid white !important; }
+
+.cm-s-ib .cm-comment { color: #08f; }
+.cm-s-ib .cm-atom { color: #ffee80; }
+.cm-s-ib .cm-number, .cm-s-ib .cm-attribute { color: #ff80e1; }
+.cm-s-ib .cm-keyword { color: #845dc4; }
+.cm-s-ib .cm-string { color: #3ad900; }
+.cm-s-ib .cm-meta { color: #ff9d00; }
+.cm-s-ib .cm-variable-2, .cm-s-ib .cm-tag, .cm-s-ib .cm-null  { color: #9effff; }
+.cm-s-ib .cm-variable-3, .cm-s-ib .cm-def { color: white; }
+.cm-s-ib .cm-error { color: #9d1e15; }
+.cm-s-ib .cm-bracket { color: #d8d8d8; }
+.cm-s-ib .cm-builtin, .cm-s-ib .cm-special { color: #ff9e59; }
+
+.CodeMirror-lines {
+  padding: 4px 0;
+  line-height: 1.1;
+}

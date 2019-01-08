@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Bathke;Ivo;;M.A.
+FN:Ivo Bathke
+ORG:Freelance
+TITLE:Developer
+TEL;HOME;VOICE:+49 02233 7130751
+ADR;WORK:;;;;;;Deutschland
+LABEL;WORK;ENCODING=QUOTED-PRINTABLE:Freelance=0D=0A=
+ M.A. Ivo Bathke=0D=0A=
+=0D=0A=
+, Deutschland
+ADR;HOME:;Orsbeckstr. 4;;Hürth;NRW;50354;Deutschland
+LABEL;HOME;ENCODING=QUOTED-PRINTABLE: M.A. Ivo Bathke=0D=0A=
+ Orsbeckstr. 4=0D=0A=
+ 50354 Hürth, NRW, Deutschland
+X-WAB-GENDER:2
+EMAIL;INTERNET:hello@ivo-bathke.name
+URL;HOME:https://ivo-bathke.name
+REV:20190107T175114Z
+END:VCARD
