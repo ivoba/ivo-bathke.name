@@ -4,8 +4,6 @@ ivo-bathke.name
 my vCard site https://ivo-bathke.name
 
 ## todo
-- add key for user
-- mod_headers
 - cache codemirrors rendered dom
 - hsts https://webbkoll.dataskydd.net
 

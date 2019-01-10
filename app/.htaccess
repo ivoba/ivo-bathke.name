@@ -19,6 +19,7 @@ ErrorDocument 404 /404.html
    </filesMatch>
 </IfModule>
 <IfModule mod_headers.c>
+   Header set Strict-Transport-Security max-age=31536000;
    Header set X-XSS-Protection "1; mode=block"
 #     # `mod_headers` cannot match based on the content-type, however,
 #     # the `X-XSS-Protection` response header should be sent only for
