@@ -164,7 +164,7 @@ gulp.task('rsync', () => {
       root: 'dist',
       hostname: process.env.DEPLOY_HOSTNAME,
       username: process.env.DEPLOY_USERNAME,
-      destination: 'public_html/',
+      destination: '/srv/ivo-bathke.name/code',
       archive: true,
       silent: false,
       compress: true,

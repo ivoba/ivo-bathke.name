@@ -3,6 +3,8 @@ ivo-bathke.name
 
 my vCard site https://ivo-bathke.name
 
+![ivo-bathke.name](screenshot.png)
+
 ## todo
 - cache codemirrors rendered dom
 - hsts https://webbkoll.dataskydd.net
